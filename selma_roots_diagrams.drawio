@@ -159,6 +159,9 @@
         <mxCell id="icaxLS8OwLBcGOM1Lo0J-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Single Pallet&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="230" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tEsfXFW_FnfkiMbHqVsl-1" value="Roughly $9 each for materials. Pallets are free from Food Bank" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="40" width="120" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
