@@ -590,6 +590,18 @@
         <mxCell id="bLUAWKSYCyNfR5RoKH6C-55" value="Will have under table storage for sorting bins. Will need to have 3-4 buckets to sort items." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="550" width="130" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="bLUAWKSYCyNfR5RoKH6C-58" value="Roughly 5ft 3in x 5ft 3in. Hight varies." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="45" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bLUAWKSYCyNfR5RoKH6C-59" value="Will be built from pallets. Support wood will need to be sourced.&lt;div&gt;Size unknown currently.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bLUAWKSYCyNfR5RoKH6C-60" value="Will need to be sourced. Roughly 5ft x 2ft." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="125" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bLUAWKSYCyNfR5RoKH6C-61" value="Will be made from pallets. See design page for idea." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="165" width="300" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
