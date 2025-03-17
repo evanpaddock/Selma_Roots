@@ -416,13 +416,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Lz_-H_eh3uePMRYzXdVH-12" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="40" y="210" width="790" height="360" as="geometry" />
+          <mxGeometry x="40" y="210" width="790" height="420" as="geometry" />
         </mxCell>
         <mxCell id="bLUAWKSYCyNfR5RoKH6C-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lz_-H_eh3uePMRYzXdVH-12">
           <mxGeometry y="60" width="735" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="Lz_-H_eh3uePMRYzXdVH-2" value="75ft" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Lz_-H_eh3uePMRYzXdVH-12" vertex="1">
-          <mxGeometry x="330.94297297297294" y="299.99999999999994" width="128.10810810810813" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lz_-H_eh3uePMRYzXdVH-3" value="19ft 10 in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" parent="Lz_-H_eh3uePMRYzXdVH-12" vertex="1">
           <mxGeometry x="711.0018682432433" y="163.6363636363636" width="70" height="30" as="geometry" />
@@ -562,6 +559,15 @@
         <mxCell id="bLUAWKSYCyNfR5RoKH6C-69" value="Extra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Lz_-H_eh3uePMRYzXdVH-12">
           <mxGeometry x="607" y="185" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KedQqTTTWnKe-CWX5mVX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Lz_-H_eh3uePMRYzXdVH-12" source="KedQqTTTWnKe-CWX5mVX-3" target="bLUAWKSYCyNfR5RoKH6C-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KedQqTTTWnKe-CWX5mVX-3" value="Will be general use for helping sort items or creating pieces." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lz_-H_eh3uePMRYzXdVH-12">
+          <mxGeometry x="200" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lz_-H_eh3uePMRYzXdVH-2" value="75ft" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Lz_-H_eh3uePMRYzXdVH-12" vertex="1">
+          <mxGeometry x="380" y="300" width="69" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="aH6zX9YaJElXuRib9W7c-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Legend:&lt;/font&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Pallet Stack&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;padding-top: 10px; padding-bottom: 10px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Workbench&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;padding-top: 10px; padding-bottom: 10px; padding-right: 0px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Clothing Rack&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Bulk Bin&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="20" width="120" height="190" as="geometry" />
         </mxCell>
@@ -604,6 +610,12 @@
         </mxCell>
         <mxCell id="bLUAWKSYCyNfR5RoKH6C-70" value="Intake Bins" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="1">
           <mxGeometry x="-20" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KedQqTTTWnKe-CWX5mVX-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KedQqTTTWnKe-CWX5mVX-1" target="bLUAWKSYCyNfR5RoKH6C-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KedQqTTTWnKe-CWX5mVX-1" value="Will have space to left or right for a clothing rack to help sort clothes. Sorted clothes will be put on one of the opposing categorized racks when sorting complete." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="540" width="165" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
